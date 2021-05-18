@@ -6,7 +6,7 @@ title: Erwann Le Lannou
 superuser: true
 
 # Role/position/tagline
-role: MB-PhD Neuroscience & AI
+role: MB-PhD, Neuroscience and Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,8 +22,7 @@ bio: My research interests include Cogbitive and Computational Neurosceince and 
 interests:
 - Artificial Intelligence
 - Neuroscience
-- Information Retrieval
-
+- AI for Medicine
 # Education to show in About widget
 education:
   courses:
