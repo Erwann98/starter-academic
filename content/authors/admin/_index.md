@@ -12,6 +12,8 @@ role: MB-PhD Neuroscience & AI
 organizations:
 - name: Univeristy College London
   url: https://www.stanford.edu/
+- name: Univeristy of Edinburgh
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
